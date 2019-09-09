@@ -12,4 +12,5 @@
 *.out
 
 .idea/**
-local-config.yaml
+src/local-config.yaml
+**.pb.go
